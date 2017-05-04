@@ -1,0 +1,14 @@
+{
+  "name": "@hubba/hubba-passport-mock",
+  "version": "1.0.0",
+  "description": "Mock out a passport strategy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "passport": "^0.3.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
